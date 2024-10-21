@@ -27,7 +27,7 @@ section.about p
     font-weight: bold;
 }
 
-div.aboutme
+div.aboutMe
 {
     margin: 0 auto;
     width: 50%;
@@ -36,7 +36,7 @@ div.aboutme
     border-radius: 20px;
 }
 
-.mypicture
+.myPicture
 {
     border: solid #ffffff;
     padding: 15px;
